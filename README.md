@@ -11,7 +11,7 @@ The goal of this project is to demonstrate **data cleaning, analysis, visualizat
 
 >  *Below is the interactive dashboard created in Excel*
 
-![Swiggy Sales Dashboard](dashboard.png)
+![Swiggy Sales Dashboard](Dashboard.png)
 
 >  Upload your dashboard image as `dashboard.png` in the root folder of this repository for the image to display correctly.
 
